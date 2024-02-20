@@ -1,4 +1,4 @@
-# Design a FSM for 2 by 4 Decoder .
+# 2 X 4 Decoder .
 
 ![decoder](https://github.com/Ashimkarrki/EmbeddedHW/assets/52632464/a4b4b236-00ad-48d0-953f-7b129f3c2746)
 
