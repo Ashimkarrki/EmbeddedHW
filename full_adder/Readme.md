@@ -1,6 +1,6 @@
 # Full Adder
 
-![CamScanner 02-20-2024 19 23 (1)](https://github.com/Ashimkarrki/EmbeddedHW/assets/52632464/e4aede54-328b-471d-b979-369c2404732d)
+![fullAdder-1-1024x473](https://github.com/Ashimkarrki/EmbeddedHW/assets/52632464/1b9358b2-363f-47fe-864e-d72671d57ac6)
 
 
 
