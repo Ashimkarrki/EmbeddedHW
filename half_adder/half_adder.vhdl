@@ -19,7 +19,7 @@ begin
             c <= b;
         else
             s <= b;
-            c <= not b;
+            c <= a;
         end if;
     end process ha;
 end behavior; 
